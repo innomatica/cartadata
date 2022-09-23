@@ -24,14 +24,27 @@ data:
     illustrated by Sir John Tenniel. His images are iconic and help to seed
     the imagination of any little person, no matter how big they are!  Download
     them here http://www.alice-in-wonderland.net/resources/pictures/alices-adventures-in-wonderland/ (Summary by Craig Franklin)
+
 - siteUrl: https://librivox.org/moby-dick-by-herman-melville/
   source: librivox
   genre: Fiction
   librivoxId: 753
+  title: Moby Dick, or the Whale
   authors:
     - Herman Melville
   language: English
   description: >
+
+- siteUrl: https://librivox.org/the-adventures-of-pinocchio-by-carlo-collodi/
+  source: librivox
+  genre: Children's
+  librivoxId: 6787
+  title: The Adventures of Pinocchio (version 2)
+  authors:
+    - Carlo Collodi
+  language: English
+  description: >
+
 - siteUrl: https://librivox.org/the-call-of-the-wild-by-jack-london-3/
   source: librivox
   genre: Fiction
@@ -54,6 +67,7 @@ data:
     the woods and speaking to the wild heart of his distant ancestors. The lure
     of it almost balances the great love he bears for Thornton, but events take
     him away from his old life... and into legend. (summary by Mark F. Smith)
+
 - siteUrl: https://librivox.org/brothers-karamazov-v3-by-fyodor-dostoyevsky/
   source: librivox
   genre: Fiction
@@ -77,6 +91,7 @@ data:
     such as Joyce, Kafka, and Woolf. “The Brothers Karamazov” has been a
     favorite book for readers as diverse as Albert Einstein, Sigmund Freud,
     Joseph Stalin, Vladimir Putin, and Hillary Clinton. - Summary by Bruce Pirie
+
 - siteUrl: https://librivox.org/the-happy-prince-and-other-tales-version-5-by-oscar-wilde/
   source: librivox
   genre: Short Stories
@@ -98,6 +113,7 @@ data:
     garden but repents and is redeemed. The Miller in the Devoted Friend is not
     only selfish but an egotistical hypocrite. The Remarkable Rocket is also a
     tale about egotism and conceit. (Summary by Noel Badrian)
+
 - siteUrl: https://librivox.org/multilingual-poetry-collection-017/
   genre: Multilingual
   source: librivox
@@ -122,6 +138,7 @@ data:
     This is a collection of short pieces, poetry or prose, fiction and
     non-fiction, in several different languages (except standard English).
     All chosen and recorded by Librivox volunteers.
+
 - siteUrl: https://librivox.org/three-hundred-tang-poems-volume-1-by-various/
   genre: Multilingual
   source: librivox
@@ -143,6 +160,7 @@ data:
     Recordings in this volume are in Cantonese, Hokkien, Mandarin and Taiwanese,
     as indicated in the titles; some are spoken, others are sung.
     (Summary by David Barnes)
+
 - siteUrl: https://archive.org/details/the-lord-of-the-rings-bbc-radio-drama
   genre: Radio Drama
   source: archive
@@ -161,6 +179,7 @@ data:
     Bilbo in the feature films based on The Lord of the Rings.
     This program includes a bonus CD featuring Stephen Oliver's complete music
     score and a demo version of John Le Mesurier singing Bilbo's Last Song.
+
 - siteUrl: https://archive.org/details/s01e00hhgttgdouglasadamsbbcboo
   source: archive
   genre: Radio Drama
@@ -171,6 +190,7 @@ data:
   description: >
     Douglas Adams' sci-fi comedy following the misadventures of hapless human
     Arthur Dent.
+
 - siteUrl: https://archive.org/details/Hut33BBCr4
   source: archive
   genre: Radio Drama
