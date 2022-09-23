@@ -4,6 +4,7 @@ createdAt: '2022-08-11 12:12:00.000Z'
 data:
 - siteUrl: https://librivox.org/alices-adventures-in-wonderland-version-7-by-lewis-carroll/
   source: librivox
+  genre: Children's
   librivoxId: 15200
   title: Alice's Adventures in Wonderland (version 7)
   authors:
@@ -23,9 +24,17 @@ data:
     illustrated by Sir John Tenniel. His images are iconic and help to seed
     the imagination of any little person, no matter how big they are!  Download
     them here http://www.alice-in-wonderland.net/resources/pictures/alices-adventures-in-wonderland/ (Summary by Craig Franklin)
-
+- siteUrl: https://librivox.org/moby-dick-by-herman-melville/
+  source: librivox
+  genre: Fiction
+  librivoxId: 753
+  authors:
+    - Herman Melville
+  language: English
+  description: >
 - siteUrl: https://librivox.org/the-call-of-the-wild-by-jack-london-3/
   source: librivox
+  genre: Fiction
   librivoxId: 4751
   title: The Call of the Wild (Version 3)
   authors:
@@ -47,6 +56,7 @@ data:
     him away from his old life... and into legend. (summary by Mark F. Smith)
 - siteUrl: https://librivox.org/brothers-karamazov-v3-by-fyodor-dostoyevsky/
   source: librivox
+  genre: Fiction
   librivoxId: 13837
   title: Brothers Karamazov (version 3)
   authors:
@@ -69,6 +79,7 @@ data:
     Joseph Stalin, Vladimir Putin, and Hillary Clinton. - Summary by Bruce Pirie
 - siteUrl: https://librivox.org/the-happy-prince-and-other-tales-version-5-by-oscar-wilde/
   source: librivox
+  genre: Short Stories
   librivoxId: 11992
   title: The Happy Prince and Other Tales (version 5)
   authors:
@@ -88,6 +99,7 @@ data:
     only selfish but an egotistical hypocrite. The Remarkable Rocket is also a
     tale about egotism and conceit. (Summary by Noel Badrian)
 - siteUrl: https://librivox.org/multilingual-poetry-collection-017/
+  genre: Multilingual
   source: librivox
   librivoxId: 4837
   title: Multilingual Poetry Collection 017
@@ -99,6 +111,7 @@ data:
     their favourite public-domain poems in languages other than English.
     (Summary by David Barnes).
 - siteUrl: https://librivox.org/multilingual-short-works-collection-012-by-various/
+  genre: Multilingual
   source: librivox
   librivoxId: 8573
   title: Multilingual Short Works Collection 012
@@ -110,6 +123,7 @@ data:
     non-fiction, in several different languages (except standard English).
     All chosen and recorded by Librivox volunteers.
 - siteUrl: https://librivox.org/three-hundred-tang-poems-volume-1-by-various/
+  genre: Multilingual
   source: librivox
   librivoxId: 441
   title: 唐诗三百首 卷一 Three Hundred Tang Poems, Volume 1
@@ -130,6 +144,7 @@ data:
     as indicated in the titles; some are spoken, others are sung.
     (Summary by David Barnes)
 - siteUrl: https://archive.org/details/the-lord-of-the-rings-bbc-radio-drama
+  genre: Radio Drama
   source: archive
   title: The Lord Of The Rings The Complete Trilogy (BBC Radio Dramatization)
   authors:
@@ -148,6 +163,7 @@ data:
     score and a demo version of John Le Mesurier singing Bilbo's Last Song.
 - siteUrl: https://archive.org/details/s01e00hhgttgdouglasadamsbbcboo
   source: archive
+  genre: Radio Drama
   title: The Hitchhikers Guide To The Galaxy Omnibus
   authors:
     - Douglas Adams
@@ -157,6 +173,7 @@ data:
     Arthur Dent.
 - siteUrl: https://archive.org/details/Hut33BBCr4
   source: archive
+  genre: Radio Drama
   title: Hercule Poirot's Finest Cases
   authors:
     - Agatha Christie
