@@ -11,7 +11,58 @@
             "description": "Alice’s adventures in Wonderland is probably one of the most well known and popular children's novels in the English language. Written in 1865 by Charles Lutwidge Dodgeson, better known by his pen name ‘Lewis Carrol’. Lewis, a mathematician, poet, photographer and inventor, tells a surreal fantasy tale, of Alice, who visits a world of unnatural logic after following a very smart White Rabbit, down a rabbit hole. The world she discovers is inhabited by the strangest and most endearing characters; The ‘Mad Hatter’, the sleepy ‘Dormouse’, the ‘Queen of Hearts’ and many more. Every child should insist that this story is read to them! And they will remember it for ever, just like Alice. This book was originally illustrated by Sir John Tenniel. His images are iconic and help to seed the imagination of any little person, no matter how big they are!  Download them here http://www.alice-in-wonderland.net/resources/pictures/alices-adventures-in-wonderland/ (Summary by Craig Franklin)\n",
             "data":{
                 "librivoxId": 15200,
-                "siteUrl": "https://librivox.org/alices-adventures-in-wonderland-version-7-by-lewis-carroll/"
+                "siteUrl": "https://librivox.org/alices-adventures-in-wonderland-version-7-by-lewis-carroll/",
+                "textUrl": "https://www.gutenberg.org/cache/epub/11/pg11-images.html",
+                "sections": [
+                    {
+                        "title":"Chapter 1 : Down the rabbit hole",
+                        "textUrl":"https://www.gutenberg.org/cache/epub/11/pg11-images.html#chap01"
+                    },
+                    {
+                        "title":"Chapter 2 : Down the rabbit hole",
+                        "textUrl":"https://www.gutenberg.org/cache/epub/11/pg11-images.html#chap02"
+                    },
+                    {
+                        "title":"Chapter 3 : Down the rabbit hole",
+                        "textUrl":"https://www.gutenberg.org/cache/epub/11/pg11-images.html#chap03"
+                    },
+                    {
+                        "title":"Chapter 4 : Down the rabbit hole",
+                        "textUrl":"https://www.gutenberg.org/cache/epub/11/pg11-images.html#chap04"
+                    },
+                    {
+                        "title":"Chapter 5 : Down the rabbit hole",
+                        "textUrl":"https://www.gutenberg.org/cache/epub/11/pg11-images.html#chap05"
+                    },
+                    {
+                        "title":"Chapter 6 : Down the rabbit hole",
+                        "textUrl":"https://www.gutenberg.org/cache/epub/11/pg11-images.html#chap06"
+                    },
+                    {
+                        "title":"Chapter 7 : Down the rabbit hole",
+                        "textUrl":"https://www.gutenberg.org/cache/epub/11/pg11-images.html#chap07"
+                    },
+                    {
+                        "title":"Chapter 8 : Down the rabbit hole",
+                        "textUrl":"https://www.gutenberg.org/cache/epub/11/pg11-images.html#chap08"
+                    },
+                    {
+                        "title":"Chapter 9 : Down the rabbit hole",
+                        "textUrl":"https://www.gutenberg.org/cache/epub/11/pg11-images.html#chap09"
+                    },
+                    {
+                        "title":"Chapter 10 : Down the rabbit hole",
+                        "textUrl":"https://www.gutenberg.org/cache/epub/11/pg11-images.html#chap10"
+                    },
+                    {
+                        "title":"Chapter 11 : Down the rabbit hole",
+                        "textUrl":"https://www.gutenberg.org/cache/epub/11/pg11-images.html#chap11"
+                    },                    
+                    {
+                        "title":"Chapter 12 : Down the rabbit hole",
+                        "textUrl":"https://www.gutenberg.org/cache/epub/11/pg11-images.html#chap12"
+                    }
+                ]
             }
         },
         {
