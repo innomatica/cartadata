@@ -3,145 +3,145 @@
     "createdAt": "2022-08-11 12:12:00.000Z",
     "data": [
         {
-            "siteUrl": "https://librivox.org/alices-adventures-in-wonderland-version-7-by-lewis-carroll/",
             "source": "librivox",
             "genre": "Children's",
-            "librivoxId": 15200,
             "title": "Alice's Adventures in Wonderland (version 7)",
-            "authors": [
-                "Lewis Carroll"
-            ],
+            "authors": "Lewis Carroll",
             "language": "English",
-            "description": "Alice’s adventures in Wonderland is probably one of the most well known and popular children's novels in the English language. Written in 1865 by Charles Lutwidge Dodgeson, better known by his pen name ‘Lewis Carrol’. Lewis, a mathematician, poet, photographer and inventor, tells a surreal fantasy tale, of Alice, who visits a world of unnatural logic after following a very smart White Rabbit, down a rabbit hole. The world she discovers is inhabited by the strangest and most endearing characters; The ‘Mad Hatter’, the sleepy ‘Dormouse’, the ‘Queen of Hearts’ and many more. Every child should insist that this story is read to them! And they will remember it for ever, just like Alice. This book was originally illustrated by Sir John Tenniel. His images are iconic and help to seed the imagination of any little person, no matter how big they are!  Download them here http://www.alice-in-wonderland.net/resources/pictures/alices-adventures-in-wonderland/ (Summary by Craig Franklin)\n"
+            "description": "Alice’s adventures in Wonderland is probably one of the most well known and popular children's novels in the English language. Written in 1865 by Charles Lutwidge Dodgeson, better known by his pen name ‘Lewis Carrol’. Lewis, a mathematician, poet, photographer and inventor, tells a surreal fantasy tale, of Alice, who visits a world of unnatural logic after following a very smart White Rabbit, down a rabbit hole. The world she discovers is inhabited by the strangest and most endearing characters; The ‘Mad Hatter’, the sleepy ‘Dormouse’, the ‘Queen of Hearts’ and many more. Every child should insist that this story is read to them! And they will remember it for ever, just like Alice. This book was originally illustrated by Sir John Tenniel. His images are iconic and help to seed the imagination of any little person, no matter how big they are!  Download them here http://www.alice-in-wonderland.net/resources/pictures/alices-adventures-in-wonderland/ (Summary by Craig Franklin)\n",
+            "data":{
+                "librivoxId": 15200,
+                "siteUrl": "https://librivox.org/alices-adventures-in-wonderland-version-7-by-lewis-carroll/"
+            }
         },
         {
-            "siteUrl": "https://librivox.org/moby-dick-by-herman-melville/",
             "source": "librivox",
             "genre": "Fiction",
-            "librivoxId": 753,
             "title": "Moby Dick, or the Whale",
-            "authors": [
-                "Herman Melville"
-            ],
+            "authors": "Herman Melville",
             "language": "English",
-            "description": ""
+            "description": "",
+            "data":{
+                "librivoxId": 753,
+                "siteUrl": "https://librivox.org/moby-dick-by-herman-melville/"
+            }
         },
         {
-            "siteUrl": "https://librivox.org/the-adventures-of-pinocchio-by-carlo-collodi/",
             "source": "librivox",
             "genre": "Children's",
-            "librivoxId": 6787,
             "title": "The Adventures of Pinocchio (version 2)",
-            "authors": [
-                "Carlo Collodi"
-            ],
+            "authors": "Carlo Collodi",
             "language": "English",
-            "description": ""
+            "description": "Pinocchio is a puppet made from a piece of wood that curiously could talk even before being carved. A wooden-head he starts and a wooden-head he stays - until after years of misadventures caused by his laziness and failure to keep promises he finally learns to care about his family - and then he becomes a real boy.\n",
+            "data": {
+                "librivoxId": 6787,
+                "siteUrl": "https://librivox.org/the-adventures-of-pinocchio-by-carlo-collodi/"
+            }
         },
         {
-            "siteUrl": "https://librivox.org/the-call-of-the-wild-by-jack-london-3/",
             "source": "librivox",
             "genre": "Fiction",
-            "librivoxId": 4751,
             "title": "The Call of the Wild (Version 3)",
-            "authors": [
-                "Jack London"
-            ],
+            "authors": "Jack London",
             "language": "English",
-            "description": "Buck is living a happy life in California until he is sold to pay a gambling debt. Taken to the Klondike to become a sled dog, Buck must toughen up and learn the harsher rules of survival in the North. One of the first of these is how to deal with being harnessed in the same team as a dog that wants to kill him. Large, strong and smart, Buck toughens to his new life. But even the toughest dog can be worn down by constant work, and after 3,000 miles of pulling sleds, Buck nears the end of his rope. Cast away as no longer useful, Buck is acquired by greenhorns whose inexperience nearly kills him, but after being saved by John Thornton, he at last finds a man he can love. Then on a remote gold-hunting expedition, Buck hears a call emanating from the woods and speaking to the wild heart of his distant ancestors. The lure of it almost balances the great love he bears for Thornton, but events take him away from his old life... and into legend. (summary by Mark F. Smith)\n"
+            "description": "Buck is living a happy life in California until he is sold to pay a gambling debt. Taken to the Klondike to become a sled dog, Buck must toughen up and learn the harsher rules of survival in the North. One of the first of these is how to deal with being harnessed in the same team as a dog that wants to kill him. Large, strong and smart, Buck toughens to his new life. But even the toughest dog can be worn down by constant work, and after 3,000 miles of pulling sleds, Buck nears the end of his rope. Cast away as no longer useful, Buck is acquired by greenhorns whose inexperience nearly kills him, but after being saved by John Thornton, he at last finds a man he can love. Then on a remote gold-hunting expedition, Buck hears a call emanating from the woods and speaking to the wild heart of his distant ancestors. The lure of it almost balances the great love he bears for Thornton, but events take him away from his old life... and into legend. (summary by Mark F. Smith)\n",
+            "data": {
+                "librivoxId": 4751,
+                "siteUrl": "https://librivox.org/the-call-of-the-wild-by-jack-london-3/"
+            }
         },
         {
-            "siteUrl": "https://librivox.org/brothers-karamazov-v3-by-fyodor-dostoyevsky/",
             "source": "librivox",
             "genre": "Fiction",
-            "librivoxId": 13837,
             "title": "Brothers Karamazov (version 3)",
-            "authors": [
-                "Fyodor Dostoyevsky"
-            ],
+            "authors": "Fyodor Dostoyevsky",
             "language": "English",
-            "description": "Originally published in serial form in 1879-80, “The Brothers Karamazov” is recognized as one of the very greatest masterpieces of world literature. It is the last and finest novel of Fyodor Dostoyevsky, who died before writing a planned sequel. The story is organized initially around the efforts of adult sons to deal with their cantankerous and exasperating father. More important, they also have to deal with the problem of how to live in a world where it is difficult to be sure of the truth — whether that be “truth” about others, about oneself, or about deep questions such as faith, doubt, free will, guilt, and responsibility. Dostoyevsky’s technique underlines the difficulty of attaining sure knowledge. The novel’s psychological and philosophical depth sets the stage for modern novelists such as Joyce, Kafka, and Woolf. “The Brothers Karamazov” has been a favorite book for readers as diverse as Albert Einstein, Sigmund Freud, Joseph Stalin, Vladimir Putin, and Hillary Clinton. - Summary by Bruce Pirie\n"
+            "description": "Originally published in serial form in 1879-80, “The Brothers Karamazov” is recognized as one of the very greatest masterpieces of world literature. It is the last and finest novel of Fyodor Dostoyevsky, who died before writing a planned sequel. The story is organized initially around the efforts of adult sons to deal with their cantankerous and exasperating father. More important, they also have to deal with the problem of how to live in a world where it is difficult to be sure of the truth — whether that be “truth” about others, about oneself, or about deep questions such as faith, doubt, free will, guilt, and responsibility. Dostoyevsky’s technique underlines the difficulty of attaining sure knowledge. The novel’s psychological and philosophical depth sets the stage for modern novelists such as Joyce, Kafka, and Woolf. “The Brothers Karamazov” has been a favorite book for readers as diverse as Albert Einstein, Sigmund Freud, Joseph Stalin, Vladimir Putin, and Hillary Clinton. - Summary by Bruce Pirie\n",
+            "data": {
+                "librivoxId": 13837,
+                "siteUrl": "https://librivox.org/brothers-karamazov-v3-by-fyodor-dostoyevsky/"
+            }
         },
         {
-            "siteUrl": "https://librivox.org/the-happy-prince-and-other-tales-version-5-by-oscar-wilde/",
             "source": "librivox",
             "genre": "Short Stories",
-            "librivoxId": 11992,
             "title": "The Happy Prince and Other Tales (version 5)",
-            "authors": [
-                "Oscar Wilde"
-            ],
+            "authors": "Oscar Wilde",
             "language": "English",
-            "description": "Oscar Wilde said of his story The Happy Prince that it was \"an attempt to treat a tragic modern problem in a form that aims at delicacy and imaginative treatment; it is a reaction against the purely imitative character of modern art.” His Fairy Tales then were only partly written for children and as he said, \"partly for those who have kept the childlike faculties of wonder and joy, and who find in simplicity a subtle strangeness\". In The Happy Prince and The Nightingale and the Rose, Wilde explores love and self sacrifice. The Selfish Giant will not let the children in his garden but repents and is redeemed. The Miller in the Devoted Friend is not only selfish but an egotistical hypocrite. The Remarkable Rocket is also a tale about egotism and conceit. (Summary by Noel Badrian)\n"
+            "description": "Oscar Wilde said of his story The Happy Prince that it was \"an attempt to treat a tragic modern problem in a form that aims at delicacy and imaginative treatment; it is a reaction against the purely imitative character of modern art.” His Fairy Tales then were only partly written for children and as he said, \"partly for those who have kept the childlike faculties of wonder and joy, and who find in simplicity a subtle strangeness\". In The Happy Prince and The Nightingale and the Rose, Wilde explores love and self sacrifice. The Selfish Giant will not let the children in his garden but repents and is redeemed. The Miller in the Devoted Friend is not only selfish but an egotistical hypocrite. The Remarkable Rocket is also a tale about egotism and conceit. (Summary by Noel Badrian)\n",
+            "data": {
+                "librivoxId": 11992,
+                "siteUrl": "https://librivox.org/the-happy-prince-and-other-tales-version-5-by-oscar-wilde/"
+            }
         },
         {
-            "siteUrl": "https://librivox.org/multilingual-poetry-collection-017/",
             "genre": "Multilingual",
             "source": "librivox",
-            "librivoxId": 4837,
             "title": "Multilingual Poetry Collection 017",
-            "authors": [
-                "Various"
-            ],
+            "authors": "Various",
             "language": "Multilingual",
-            "description": "In LibriVox’s Multilingual Poetry Collection, LibriVox volunteers read their favourite public-domain poems in languages other than English. (Summary by David Barnes).\n"
+            "description": "In LibriVox’s Multilingual Poetry Collection, LibriVox volunteers read their favourite public-domain poems in languages other than English. (Summary by David Barnes).\n",
+            "data": {
+                "librivoxId": 4837,
+                "siteUrl": "https://librivox.org/multilingual-poetry-collection-017/"
+            }
         },
         {
-            "siteUrl": "https://librivox.org/multilingual-short-works-collection-012-by-various/",
             "genre": "Multilingual",
             "source": "librivox",
-            "librivoxId": 8573,
             "title": "Multilingual Short Works Collection 012",
-            "authors": [
-                "Various"
-            ],
+            "authors": "Various",
             "language": "Multilingual",
-            "description": "This is a collection of short pieces, poetry or prose, fiction and non-fiction, in several different languages (except standard English). All chosen and recorded by Librivox volunteers.\n"
+            "description": "This is a collection of short pieces, poetry or prose, fiction and non-fiction, in several different languages (except standard English). All chosen and recorded by Librivox volunteers.\n",
+            "data":{
+                "librivoxId": 8573,
+                "siteUrl": "https://librivox.org/multilingual-short-works-collection-012-by-various/"
+            }
         },
         {
-            "siteUrl": "https://librivox.org/three-hundred-tang-poems-volume-1-by-various/",
             "genre": "Multilingual",
             "source": "librivox",
-            "librivoxId": 441,
             "title": "唐诗三百首 卷一 Three Hundred Tang Poems, Volume 1",
-            "authors": [
-                "Various"
-            ],
+            "authors": "Various",
             "language": "Chinese",
-            "description": "The Tang Dynasty (618 to 907) was a golden age of Chinese culture: religion and philosophy, painting and calligraphy, sculpture, architecture and music all reached peaks of perfection. Poetry was the epitome of the arts: a scholastic requirement, a route to fame, a moulder of character. Nearly 50,000 poems of the Tang have survived. The collection 'Three Hundred Tang Poems' was compiled around 1763. It comprises six volumes, with poems grouped by verse form. Volume 1 covers the 'ancient verse' style in five-character lines (poems 1 to 35), and 'folk song style verse' (36 to 45). The masters Li Bai, Du Fu and Wang Wei are well represented here. Recordings in this volume are in Cantonese, Hokkien, Mandarin and Taiwanese, as indicated in the titles; some are spoken, others are sung. (Summary by David Barnes)\n"
+            "description": "The Tang Dynasty (618 to 907) was a golden age of Chinese culture: religion and philosophy, painting and calligraphy, sculpture, architecture and music all reached peaks of perfection. Poetry was the epitome of the arts: a scholastic requirement, a route to fame, a moulder of character. Nearly 50,000 poems of the Tang have survived. The collection 'Three Hundred Tang Poems' was compiled around 1763. It comprises six volumes, with poems grouped by verse form. Volume 1 covers the 'ancient verse' style in five-character lines (poems 1 to 35), and 'folk song style verse' (36 to 45). The masters Li Bai, Du Fu and Wang Wei are well represented here. Recordings in this volume are in Cantonese, Hokkien, Mandarin and Taiwanese, as indicated in the titles; some are spoken, others are sung. (Summary by David Barnes)\n",
+            "data": {
+                "librivoxId": 441,
+                "siteUrl": "https://librivox.org/three-hundred-tang-poems-volume-1-by-various/"
+            }
         },
-        {
-            "siteUrl": "https://archive.org/details/the-lord-of-the-rings-bbc-radio-drama",
+        {   
             "genre": "Radio Drama",
             "source": "archive",
             "title": "The Lord Of The Rings The Complete Trilogy (BBC Radio Dramatization)",
-            "authors": [
-                "J.R.R. Tolkien"
-            ],
+            "authors": "J.R.R. Tolkien",
             "language": "English",
-            "description": "Widely regarded as a broadcasting landmark, this thrilling dramatization by Brian Sibley and Michael Bakewell boasts a truly outstanding cast, including Ian Holm, Michael Hordern, Robert Stephens, and John Le Mesurier. Tolkien's tale relates the perilous attempt by Frodo Baggins and company to defeat the evil Sauron and dispose of the Ruling Ring. Brian Sibley, one of the original dramatists, wrote the opening and closing narration for the character of Frodo, played by Ian Holm, who now stars as Bilbo in the feature films based on The Lord of the Rings. This program includes a bonus CD featuring Stephen Oliver's complete music score and a demo version of John Le Mesurier singing Bilbo's Last Song.\n"
+            "description": "Widely regarded as a broadcasting landmark, this thrilling dramatization by Brian Sibley and Michael Bakewell boasts a truly outstanding cast, including Ian Holm, Michael Hordern, Robert Stephens, and John Le Mesurier. Tolkien's tale relates the perilous attempt by Frodo Baggins and company to defeat the evil Sauron and dispose of the Ruling Ring. Brian Sibley, one of the original dramatists, wrote the opening and closing narration for the character of Frodo, played by Ian Holm, who now stars as Bilbo in the feature films based on The Lord of the Rings. This program includes a bonus CD featuring Stephen Oliver's complete music score and a demo version of John Le Mesurier singing Bilbo's Last Song.\n",
+            "data":{
+                "siteUrl": "https://archive.org/details/the-lord-of-the-rings-bbc-radio-drama"
+            }
         },
         {
-            "siteUrl": "https://archive.org/details/s01e00hhgttgdouglasadamsbbcboo",
             "source": "archive",
             "genre": "Radio Drama",
             "title": "The Hitchhikers Guide To The Galaxy Omnibus",
-            "authors": [
-                "Douglas Adams"
-            ],
+            "authors": "Douglas Adams",
             "language": "English",
-            "description": "Douglas Adams' sci-fi comedy following the misadventures of hapless human Arthur Dent.\n"
+            "description": "Douglas Adams' sci-fi comedy following the misadventures of hapless human Arthur Dent.\n",
+            "data": {
+                "siteUrl": "https://archive.org/details/s01e00hhgttgdouglasadamsbbcboo"
+            }
         },
         {
-            "siteUrl": "https://archive.org/details/Hut33BBCr4",
             "source": "archive",
             "genre": "Radio Drama",
             "title": "Hercule Poirot's Finest Cases",
-            "authors": [
-                "Agatha Christie"
-            ],
+            "authors": "Agatha Christie",
             "language": "English",
-            "description": "Based on Agatha Christie’s original novels, these superb adaptations feature a host of distinguished actors including Iain Glen, Fiona Fullerton, Stephanie Cole and Stephen Tompkinson.\n"
+            "description": "Based on Agatha Christie’s original novels, these superb adaptations feature a host of distinguished actors including Iain Glen, Fiona Fullerton, Stephanie Cole and Stephen Tompkinson.\n",
+            "data": {
+                "siteUrl": "https://archive.org/details/Hut33BBCr4"
+            }
         }
     ]
 }
