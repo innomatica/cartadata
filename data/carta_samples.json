@@ -40,6 +40,18 @@
         },
         {
             "source": "librivox",
+            "genre": "Children's",
+            "title": "Christmas Short Works Collection 2017",
+            "authors": "Various",
+            "language": "Multilingual",
+            "description": "This year's Christmas collection of short stories, poems and non-fiction features 29 readings in English, Lithuanian, Spanish and Romanian.\n",
+            "data": {
+                "librivoxId": 12488,
+                "siteUrl": "https://librivox.org/christmas-short-works-collection-2017-by-various/"
+            }
+        },
+        {
+            "source": "librivox",
             "genre": "Fiction",
             "title": "The Call of the Wild (Version 3)",
             "authors": "Jack London",
