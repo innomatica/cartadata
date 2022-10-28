@@ -5,6 +5,66 @@
         {
             "source": "librivox",
             "genre": "Children's",
+            "title": "Winnie-the-Pooh",
+            "authors": "A. A. Milne",
+            "language": "English",
+            "description": "Winnie the Pooh, the loveable little bear with a great big heart (and only a slightly less large appetite for honey), has fun and adventures in this book. All of the other residents of the 100 acre wood join in to help this happen. Rabbit, Piglet, Owl, Kanga and Roo and of course the every depressed Eeyore who manages to lose his tail somehow. But what more needs to be said except that it Christopher Robin and Pooh are here? Listen and enjoy. - Summary by phil chenevert\n",
+            "data":{
+                "librivoxId": 17468,
+                "siteUrl": "https://librivox.org/winnie-the-pooh-by-a-a-milne/"
+            }
+        },
+        {
+            "source": "librivox",
+            "genre": "Children's",
+            "title": "Raggedy Ann Stories",
+            "authors": "Johnny Gruelle",
+            "language": "English",
+            "description": "To the millions of children and grown-ups who have loved a Rag Doll, the author dedicated these stories. Now listen as eight voices read to you Raggedy Ann's exciting adventures, as gentle and charming today, as they were when first published in 1918.\n",
+            "data":{
+                "librivoxId": 1407,
+                "siteUrl": "https://librivox.org/raggedy-ann-stories-by-john-b-gruelle"
+            }
+        },
+        {
+            "source": "librivox",
+            "genre": "Children's",
+            "title": "The Magic Pudding",
+            "authors": "Norman Lindsay",
+            "language": "English",
+            "description": "Bunyip Bluegum the koala sets out on his travels taking only a walking stick. At about lunchtime, feeling more than slightly peckish, he meets Bill Barnacle the sailor and Sam Sawnoff the penguin who are eating a pudding. The pudding is a magic one which, no matter how much you eat it, always reforms into a whole pudding again. He is called Albert, has thin arms and legs and is a bad-tempered, ill-mannered so-and-so into the bargain. His only pleasure is being eaten. The book is divided into four slices instead of chapters. (Introduction by Wikipedia)\n",
+            "data":{
+                "librivoxId": 5705,
+                "siteUrl": "https://librivox.org/the-magic-pudding-by-norman-lindsay/"
+            }
+        },
+        {
+            "source": "librivox",
+            "genre": "Children's",
+            "title": "The Story of Doctor Dolittle",
+            "authors": "Hugh Lofting",
+            "language": "English",
+            "description": "In The Story of Doctor Dolittle (1920), the first of Hugh Lofting's Doctor Dolittle books, we are introduced to the good doctor who gives up treating people after Polynesia, his parrot, teaches him animal languages. His fame in the animal kingdom spreads throughout the world and soon he sets off to cure a monkey epidemic in Africa, finding all sorts of exciting adventures on the way.\n",
+            "data":{
+                "librivoxId": 416,
+                "siteUrl": "https://librivox.org/the-story-of-doctor-dolittle-by-hugh-lofting/"
+            }
+        },
+        {
+            "source": "librivox",
+            "genre": "Children's",
+            "title": "Peter and Wendy (Version 2)",
+            "authors": "J. M. Barrie",
+            "language": "English",
+            "description": "Peter Pan, or The Boy Who Wouldn't Grow Up and Peter and Wendy are the stage play and novel (respectively) which tell the well-known story of Peter Pan, a mischievous little boy who spends his never-ending childhood on the island of Neverland, and his adventure with the ordinary girl Wendy Darling and her brothers. The story was written by Scottish playwright and novelist J. M. Barrie (1860–1937). It features many fantastical elements, including children who can fly, a magical fairy, and mermaids. It was first staged at the Duke of York's Theatre on 27 December 1904, then adapted by Barrie into a novel published in 1911, and since adapted numerous times for film and other media, remaining popular with generations of children and adults.\n",
+            "data":{
+                "librivoxId": 16450,
+                "siteUrl": "https://librivox.org/peter-and-wendy-version-2-by-j-m-barrie/"
+            }
+        },
+        {
+            "source": "librivox",
+            "genre": "Children's",
             "title": "Alice's Adventures in Wonderland (version 7)",
             "authors": "Lewis Carroll",
             "language": "English",
@@ -12,6 +72,42 @@
             "data":{
                 "librivoxId": 15200,
                 "siteUrl": "https://librivox.org/alices-adventures-in-wonderland-version-7-by-lewis-carroll/"
+            }
+        },
+        {
+            "source": "librivox",
+            "genre": "Children's",
+            "title": "Pollyanna (version 2)",
+            "authors": "Eleanor H. Porter",
+            "language": "English",
+            "description": "In a small town far out West, 11 year old Pollyanna loses her mother then her dad to disease. This book describes how the orphan is sent to be raised by her aunt who lives far away in the East of the country. Unfortunately her aunt does not want her but accepts her very reluctantly only out of 'duty' and sticks her into a tiny hot attic room so she will be 'out of the way'. What Aunt Polly does not know is that Pollyanna is bringing the game of being 'glad' that her father taught her and that her irrepressible happy attitude will transform not only that dull and miserable house, but an entire village before she is through. (Summary by Phil Chenevert)\n",
+            "data":{
+                "librivoxId": 6829,
+                "siteUrl": "https://librivox.org/pollyanna-by-eleanor-h-porter-2/"
+            }
+        },
+        {
+            "source": "librivox",
+            "genre": "Children's",
+            "title": "The Secret Garden",
+            "authors": "Frances Hodgson Burnett",
+            "language": "English",
+            "description": "Mary Lennox is a spoiled, middle-class, self-centered child who has been recently orphaned. She is accepted into the quiet and remote country house of an uncle, who has almost completely withdrawn into himself after the death of his wife. Mary gradually becomes drawn into the hidden side of the house: why does she hear the crying of a unseen child? Why is there an overgrown, walled garden, its door long locked? (Summary by Peter)\n",
+            "data":{
+                "librivoxId": 56,
+                "siteUrl": "https://librivox.org/the-secret-garden-by-frances-hodgson-burnett/"
+            }
+        },
+        {
+            "source": "librivox",
+            "genre": "Children's",
+            "title": "The Wind in the Willows (version 3)",
+            "authors": "Kenneth Grahame",
+            "language": "English",
+            "description": "The classic story of how Rat, Mole, and the other river-bankers saved Toad from his excesses. This book has it all: excitement, sentiment, destruction of private property (plenty of that), paganism, and a happy ending. The prose is beautiful and occasionally requires the use of a dictionary - I had to look up “asperities.” Written as a children’s story, The Wind in the Willows is enjoyed by many grown-ups who relish Grahame’s ability to evoke the long summer days of childhood. (Summary by Adrian Praetzellis)\n",
+            "data":{
+                "librivoxId": 1035,
+                "siteUrl": "https://librivox.org/the-wind-in-the-willows-by-kenneth-grahame-solo/"
             }
         },
         {
@@ -60,6 +156,18 @@
             "data": {
                 "librivoxId": 4751,
                 "siteUrl": "https://librivox.org/the-call-of-the-wild-by-jack-london-3/"
+            }
+        },
+        {
+            "source": "librivox",
+            "genre": "Fiction",
+            "title": "The Lost World (version 3)",
+            "authors": "Sir Arthur Conan Doyle",
+            "language": "English",
+            "description": "The Lost World is a novel released in 1912 by Sir Arthur Conan Doyle about an expedition to a plateau in the Amazon basin in Brazil that encountered prehistoric animals. It has been the inspiration for subsequent fiction, including Michael Crichton's Jurassic Park.\n",
+            "data":{
+                "librivoxId": 8243,
+                "siteUrl": "https://librivox.org/the-lost-world-by-sir-arthur-conan-doyle-2/"
             }
         },
         {
