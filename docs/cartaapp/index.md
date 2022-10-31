@@ -1,5 +1,5 @@
 # Carta
 
 * [Instruction](./manual.md)
-* [Privacy](./privacy.md)
+* [Privacy Policy](./privacy.md)
 * [Disclaimer](./disclaimer.md)

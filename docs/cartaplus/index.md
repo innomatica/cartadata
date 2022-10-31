@@ -1,5 +1,5 @@
 # Carta Plus
 
-* [Manual](./manual.md)
-* [Privacy](./privacy.md)
+* [Instruction](./manual.md)
+* [Privacy Policy](./privacy.md)
 * [Disclaimer](./disclaimer.md)
