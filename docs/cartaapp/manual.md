@@ -1,6 +1,12 @@
-# How to Add Books from LibriVox
+# How To
 
-Tap the menu botton at the top right corner of the home screen.
+* [Add an Audiobook from LibriVox](#add-an-audiobook-from-librivox)
+
+## Add an Audiobook from LibriVox
+
+From the menu at the top right corner of the home screen,
+select ***LibriVox***
+
 
 ![](./res/home_menu.png){: style="width:300px"}
 

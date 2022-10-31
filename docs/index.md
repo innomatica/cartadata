@@ -1,10 +1,11 @@
 # Carta
 
-* [Disclaimer](./cartaapp/disclaimer.md)
+* [Instruction](./cartaapp/manual.md)
 * [Privacy Policy](./cartaapp/privacy.md)
-* [Manual](./cartaapp/manual.md)
+* [Disclaimer](./cartaapp/disclaimer.md)
 
 # Carta Plus
 
-* [Disclaimer](./cartaplus/disclaimer.md)
+* [Instruction](./cartaplus/manual.md)
 * [Privacy Policy](./cartaplus/privacy.md)
+* [Disclaimer](./cartaplus/disclaimer.md)

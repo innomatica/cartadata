@@ -1,7 +1,7 @@
-site_name: My Docs
-
-theme:
-  name: readthedocs
-
+site_name: Carta
+theme: readthedocs
 markdown_extensions:
   - attr_list
+nav:
+  - Carta: cartaapp/index.md
+  - Carta Plus: cartaplus/index.md
