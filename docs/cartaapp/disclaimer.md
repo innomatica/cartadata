@@ -37,13 +37,12 @@ the Service.
 In no event shall the Company be liable for any special, direct, indirect,
 consequential, or incidental damages or any damages whatsoever, whether in an
 action of contract, negligence or other tort, arising out of or in connection
-with the use of the Service or the contents of the Service.  The Company
-reserves the right to make additions, deletions, or modifications to the
-contents on the Service at any time without prior notice.
+with the use of the Service or the contents of the Service. The Company reserves 
+the right to make additions, deletions, or modifications to the contents on the 
+Service at any time without prior notice.
 
 The Company does not warrant that the Service is free of viruses or other
 harmful components.
-
 
 # External Links Disclaimer
 
@@ -52,7 +51,6 @@ maintained by or in any way affiliated with the Company.
 
 Please note that the Company does not guarantee the accuracy, relevance,
 timeliness, or completeness of any information on these external websites.
-
 
 # Errors and Omissions Disclaimer
 
@@ -93,9 +91,9 @@ reserves the right to delete any comment for any reason whatsoever.
 
 The information on the Service is provided with the understanding that the
 Company is not herein engaged in rendering legal, accounting, tax, or other
-professional advice and services.  As such, it should not be used as a
-substitute for consultation with professional accounting, tax, legal or other
-competent advisers.
+professional advice and services. As such, it should not be used as a substitute 
+for consultation with professional accounting, tax, legal or other competent 
+advisers.
 
 In no event shall the Company or its suppliers be liable for any special,
 incidental, indirect, or consequential damages whatsoever arising out of or in
