@@ -184,6 +184,18 @@
         },
         {
             "source": "librivox",
+            "genre": "Fiction",
+            "title": "Crime and Punishment (Version 3)",
+            "authors": "Fyodor Dostoyevsky",
+            "language": "English",
+            "description": "Crime and Punishment is the second of Fyodor Dostoyevsky's full-length novels following his return from 5 years of exile in Siberia, and is considered the first great novel of his 'mature' period of writing. The novel focuses on the mental anguish and moral dilemmas of Rodion Raskolnikov, an impoverished ex-student in St. Petersburg who formulates and executes a plan to kill an unscrupulous pawnbroker for her cash. Raskolnikov, in an attempt to defend his actions, argues that with the pawnbroker's money he can perform good deeds to counterbalance the crime while ridding the world of a vermin, and to test a theory of his that some people are naturally superior and have the right to commit crimes if it is in pursuit of a higher purpose. ( Mark Nelson)\n",
+            "data": {
+                "librivoxId": 12129,
+                "siteUrl": "https://librivox.org/crime-and-punishment-version-3-by-fyodor-dostoyevsky/"
+            }
+        },
+        {
+            "source": "librivox",
             "genre": "Short Stories",
             "title": "The Happy Prince and Other Tales (version 5)",
             "authors": "Oscar Wilde",
