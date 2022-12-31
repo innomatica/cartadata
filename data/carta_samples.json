@@ -53,6 +53,18 @@
         {
             "source": "librivox",
             "genre": "Children's",
+            "title": "The Story of Doctor Dolittle",
+            "authors": "Hugh Lofting",
+            "language": "English",
+            "description": "In The Story of Doctor Dolittle (1920), the first of Hugh Lofting's Doctor Dolittle books, we are introduced to the good doctor who gives up treating people after Polynesia, his parrot, teaches him animal languages. His fame in the animal kingdom spreads throughout the world and soon he sets off to cure a monkey epidemic in Africa, finding all sorts of exciting adventures on the way.\n",
+            "data":{
+                "librivoxId": 416,
+                "siteUrl": "https://librivox.org/the-story-of-doctor-dolittle-by-hugh-lofting/"
+            }
+        },
+        {
+            "source": "librivox",
+            "genre": "Children's",
             "title": "Peter and Wendy (Version 2)",
             "authors": "J. M. Barrie",
             "language": "English",
@@ -207,8 +219,8 @@
             }
         },
         {
-            "genre": "Multilingual",
             "source": "librivox",
+            "genre": "Multilingual",
             "title": "Multilingual Poetry Collection 017",
             "authors": "Various",
             "language": "Multilingual",
@@ -219,8 +231,8 @@
             }
         },
         {
-            "genre": "Multilingual",
             "source": "librivox",
+            "genre": "Multilingual",
             "title": "Multilingual Short Works Collection 012",
             "authors": "Various",
             "language": "Multilingual",
@@ -231,8 +243,8 @@
             }
         },
         {
-            "genre": "Multilingual",
             "source": "librivox",
+            "genre": "Multilingual",
             "title": "唐诗三百首 卷一 Three Hundred Tang Poems, Volume 1",
             "authors": "Various",
             "language": "Chinese",
@@ -243,8 +255,8 @@
             }
         },
         {   
-            "genre": "Radio Drama",
             "source": "archive",
+            "genre": "Radio Drama",
             "title": "The Lord Of The Rings The Complete Trilogy (BBC Radio Dramatization)",
             "authors": "J.R.R. Tolkien",
             "language": "English",
@@ -276,8 +288,8 @@
             }
         },
         {
-            "genre": "Hall of Fame",
             "source": "librivox",
+            "genre": "Hall of Fame",
             "title": "Wuthering Heights (Version 2)",
             "authors": "Emily Brontë'",
             "language": "English",
