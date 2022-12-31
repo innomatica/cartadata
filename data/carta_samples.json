@@ -274,6 +274,18 @@
             "data": {
                 "siteUrl": "https://archive.org/details/Hut33BBCr4"
             }
+        },
+        {
+            "genre": "Hall of Fame",
+            "source": "librivox",
+            "title": "Wuthering Heights (Version 2)",
+            "authors": "Emily Brontë'",
+            "language": "English",
+            "description": "Emily Brontë's only novel, published in 1847 under the pseudonym Ellis Bell, tells the tale of the all-encompassing and passionate, yet thwarted, love between Heathcliff and Catherine Earnshaw, and how this unresolved passion eventually destroys them and many around them.\n",
+            "data":{
+                "librivoxId": 2994,
+                "siteUrl": "https://librivox.org/wuthering-heights-by-emily-bronte-2/"
+            }
         }
     ]
 }
