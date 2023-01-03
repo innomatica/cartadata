@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2023-01-03T10:14:48.730007",
+  "createdAt": "2023-01-03T15:00:16.424821",
   "data": [
     {
       "title": "Winnie-the-Pooh",
@@ -277,7 +277,7 @@
       "source": "librivox",
       "authors": "E. Nesbit",
       "readers": null,
-      "genre": null,
+      "genre": "Children's",
       "data": {
         "siteUrl": "https://librivox.org/the-wonderful-garden-or-the-three-c-s-by-e-nesbit/"
       }
@@ -347,7 +347,7 @@
       "source": "librivox",
       "authors": "Castello Newton Holford",
       "readers": null,
-      "genre": null,
+      "genre": "Fiction",
       "data": {
         "siteUrl": "https://librivox.org/aristopia-by-castello-newton-holford/"
       }
@@ -1250,6 +1250,436 @@
       "genre": "Children's",
       "data": {
         "siteUrl": "https://librivox.org/the-wonderful-wizard-of-oz-by-l-frank-baum/"
+      }
+    },
+    {
+      "title": "The Absentee",
+      "source": "librivox",
+      "authors": "Maria Edgeworth",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/the-absentee-by-maria-edgeworth/"
+      }
+    },
+    {
+      "title": "Armand Durand",
+      "source": "librivox",
+      "authors": "Rosanna Eleanor Leprohon",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/armand-durand-by-rosanna-eleanor-leprohon/"
+      }
+    },
+    {
+      "title": "Buddenbrooks",
+      "source": "librivox",
+      "authors": "Thomas Mann",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/buddenbrooks-by-thomas-mann/"
+      }
+    },
+    {
+      "title": "The Canadians of Old",
+      "source": "librivox",
+      "authors": "Philippe Aubert de Gaspé",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/the-canadians-of-old-by-philippe-aubert-de-gaspe/"
+      }
+    },
+    {
+      "title": "Cousin Betty",
+      "source": "librivox",
+      "authors": "Honoré de Balzac",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/cousin-betty-by-honore-de-balzac/"
+      }
+    },
+    {
+      "title": "Cousin Pons",
+      "source": "librivox",
+      "authors": "Honoré de Balzac",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/cousin-pons-by-honore-de-balzac/"
+      }
+    },
+    {
+      "title": "Creditors",
+      "source": "librivox",
+      "authors": "August Strindberg",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/creditors-by-august-strindberg/"
+      }
+    },
+    {
+      "title": "Cymbeline",
+      "source": "librivox",
+      "authors": "William Shakespeare",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/cymbeline-by-william-shakespeare/"
+      }
+    },
+    {
+      "title": "The Dance of Death",
+      "source": "librivox",
+      "authors": "August Strindberg",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/the-dance-of-death-by-august-strindberg/"
+      }
+    },
+    {
+      "title": "A Daughter of Today",
+      "source": "librivox",
+      "authors": "Sara Jeannette Duncan",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/a-daughter-of-today-by-sara-jeannette-duncan/"
+      }
+    },
+    {
+      "title": "Dubliners",
+      "source": "librivox",
+      "authors": "James Joyce",
+      "readers": null,
+      "genre": "Short Stories",
+      "data": {
+        "siteUrl": "https://librivox.org/dubliners-by-james-joyce/"
+      }
+    },
+    {
+      "title": "Eugénie Grandet",
+      "source": "librivox",
+      "authors": "Honoré de Balzac",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/eugenie-grandet-by-honore-de-balzac/"
+      }
+    },
+    {
+      "title": "Exiles",
+      "source": "librivox",
+      "authors": "James Joyce",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/exiles-by-james-joyce/"
+      }
+    },
+    {
+      "title": "Father Goriot (version 2)",
+      "source": "librivox",
+      "authors": "Honoré de Balzac",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/father-goriot-version-2-by-honore-de-balzac/"
+      }
+    },
+    {
+      "title": "The Greater Inclination",
+      "source": "librivox",
+      "authors": "Edith Wharton",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/the-greater-inclination-by-edith-wharton/"
+      }
+    },
+    {
+      "title": "He and She",
+      "source": "librivox",
+      "authors": "Rachel Crothers",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/he-and-she-by-rachel-crothers/"
+      }
+    },
+    {
+      "title": "Heartbreak House",
+      "source": "librivox",
+      "authors": "George Bernard Shaw",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/heartbreak-house-by-george-bernard-shaw/"
+      }
+    },
+    {
+      "title": "Hippolytus",
+      "source": "librivox",
+      "authors": "Euripides",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/hippolytus-by-euripides/"
+      }
+    },
+    {
+      "title": "The Imperialist",
+      "source": "librivox",
+      "authors": "Sara Jeannette Duncan",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/the-imperialist-by-mrs-everard-cotes/"
+      }
+    },
+    {
+      "title": "International Short Stories Volume 3: French Stories",
+      "source": "librivox",
+      "authors": "Various",
+      "readers": null,
+      "genre": "Short Stories",
+      "data": {
+        "siteUrl": "https://librivox.org/international-short-stories-volume-3-french-stories-by-francis-j-reynolds/"
+      }
+    },
+    {
+      "title": "Ivanov",
+      "source": "librivox",
+      "authors": "Anton Chekhov",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/ivanov-by-anton-chekhov/"
+      }
+    },
+    {
+      "title": "John Gabriel Borkman",
+      "source": "librivox",
+      "authors": "Henrik Ibsen",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/john-gabriel-borkman-by-henrik-ibsen/"
+      }
+    },
+    {
+      "title": "The Lady From the Sea",
+      "source": "librivox",
+      "authors": "Henrik Ibsen",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/the-lady-from-the-sea-by-henrik-ibsen/"
+      }
+    },
+    {
+      "title": "Library of the World's Best Literature, Ancient and Modern, volume 02",
+      "source": "librivox",
+      "authors": "Various",
+      "readers": null,
+      "genre": "Short Stories",
+      "data": {
+        "siteUrl": "https://librivox.org/library-of-the-worlds-best-literature-ancient-and-modern-volume-2-by-various/"
+      }
+    },
+    {
+      "title": "Library of the World's Best Literature, Ancient and Modern, volume 05",
+      "source": "librivox",
+      "authors": "Various",
+      "readers": null,
+      "genre": "Short Stories",
+      "data": {
+        "siteUrl": "https://librivox.org/library-of-the-worlds-best-literature-ancient-and-modern-volume-5-by-charles-dudely-ed/"
+      }
+    },
+    {
+      "title": "The Life And Adventures Of Nicholas Nickleby",
+      "source": "librivox",
+      "authors": "Charles Dickens",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/the-life-and-adventures-of-nicholas-nickleby-by/"
+      }
+    },
+    {
+      "title": "The Lifted Veil",
+      "source": "librivox",
+      "authors": "George Eliot",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/the-lifted-veil-by-george-eliot/"
+      }
+    },
+    {
+      "title": "Lost Illusions: Two Poets",
+      "source": "librivox",
+      "authors": "Honoré de Balzac",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/lost-illusions-two-poets-by-honore-de-balzac/"
+      }
+    },
+    {
+      "title": "The Man from Glengarry",
+      "source": "librivox",
+      "authors": "Ralph Connor",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/the-man-from-glengarry-by-ralph-connor/"
+      }
+    },
+    {
+      "title": "Maria Chapdelaine (version 2)",
+      "source": "librivox",
+      "authors": "Louis Hémon",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/maria-chapdelaine-version-2-by-louis-hemon/"
+      }
+    },
+    {
+      "title": "The Mayor of Casterbridge (version 2)",
+      "source": "librivox",
+      "authors": "Thomas Hardy",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/the-mayor-of-casterbridge-version-2-by-thomas-hardy/"
+      }
+    },
+    {
+      "title": "A Midsummer Night's Dream (version 2)",
+      "source": "librivox",
+      "authors": "William Shakespeare",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/a-midsummer-nights-dream-version-2-by-william-shakespeare/"
+      }
+    },
+    {
+      "title": "Orestes",
+      "source": "librivox",
+      "authors": "Euripides",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/orestes-by-euripides/"
+      }
+    },
+    {
+      "title": "Ormond",
+      "source": "librivox",
+      "authors": "Maria Edgeworth",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/ormond-by-maria-edgeworth/"
+      }
+    },
+    {
+      "title": "Othello",
+      "source": "librivox",
+      "authors": "William Shakespeare",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/othello-by-william-shakespeare/"
+      }
+    },
+    {
+      "title": "Over Prairie Trails",
+      "source": "librivox",
+      "authors": "Frederick  Philip Grove",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/over-prairie-trails-by-frederick-philip-grove/"
+      }
+    },
+    {
+      "title": "Salome",
+      "source": "librivox",
+      "authors": "Oscar Wilde",
+      "readers": null,
+      "genre": "Comedy Tragedy",
+      "data": {
+        "siteUrl": "https://librivox.org/salome-by-oscar-wilde/"
+      }
+    },
+    {
+      "title": "Scenes of Clerical Life",
+      "source": "librivox",
+      "authors": "George Eliot",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/scenes-of-clerical-life-by-george-eliot/"
+      }
+    },
+    {
+      "title": "Settlers of the Marsh",
+      "source": "librivox",
+      "authors": "Frederick  Philip Grove",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/settlers-of-the-marsh-by-frederick-philip-grove/"
+      }
+    },
+    {
+      "title": "Short Stories",
+      "source": "librivox",
+      "authors": "Fyodor Dostoyevsky",
+      "readers": null,
+      "genre": "Short Stories",
+      "data": {
+        "siteUrl": "https://librivox.org/short-stories-by-fyodor-dostoyevsky/"
+      }
+    },
+    {
+      "title": "A Superfluous Woman",
+      "source": "librivox",
+      "authors": "Emma Francis  Brooke",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/a-superfluous-woman-by-emma-francis-brooke/"
+      }
+    },
+    {
+      "title": "The Tempest",
+      "source": "librivox",
+      "authors": "William Shakespeare",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/the-tempest-by-william-shakespeare/"
+      }
+    },
+    {
+      "title": "The Untempered Wind",
+      "source": "librivox",
+      "authors": "Joanna E. Wood",
+      "readers": null,
+      "genre": "Fiction",
+      "data": {
+        "siteUrl": "https://librivox.org/the-untempered-wind-by-joanna-e-wood/"
       }
     }
   ]
